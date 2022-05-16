@@ -1,0 +1,37 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys ="clr-namespace:System;assembly=mscorlib">
+
+    <sys:String xml:space="preserve" x:Key="level1entry">  Вы только вошли в странного вида пещеру, как вас встретил огромный дракон. Пока что он спит, но обойти его не получится. 
+  Вы волшебник, сражаетесь, используя свою книгу с заклинаниями. Каждый ход вы получаете 6 из них и комбинируете, пытаясь добиться лучшего результата. Каждое заклинание униалньо и делает что-то само по себе, хотя для побед над трудными противниками без комбинаций не обойтись.</sys:String>
+
+    <sys:String xml:space="preserve" x:Key="startInfoLevel1">Дракон спит в углу пещеры</sys:String>
+    <sys:String xml:space="preserve" x:Key="defendInfo1">Кажется, чешуя дракона изменила свой цвет и текстуру</sys:String>
+    <sys:String xml:space="preserve" x:Key="defendInfo2">Дракон отступает и прикрывает голову крылом</sys:String>
+    <sys:String xml:space="preserve" x:Key="attackInfo1">Дракон выглядит агрессивным</sys:String>
+    <sys:String xml:space="preserve" x:Key="attackInfo2">Когти на лапах дракона покрылись ядовито-желтым оттенком</sys:String>
+    <sys:String xml:space="preserve" x:Key="debuffInfo1">Дракон рычит, но вы понимаете, он говорит: "Посмотрим, как теперь ты будешь сражаться"</sys:String>
+    <sys:String xml:space="preserve" x:Key="debuffInfo2">Дракон отправил в вас большой сталагмит своим хвостом. Кажется рука будет заживать пару ходов</sys:String>
+    <sys:String xml:space="preserve" x:Key="ultimateInfo1">Кажется, дракон готовит что-то необычное...</sys:String>
+    <sys:String xml:space="preserve" x:Key="ultimateInfo2">Дракон отступает в тень...</sys:String>
+
+    <sys:String xml:space="preserve" x:Key="spell1">Огненный шар</sys:String>
+    <sys:String xml:space="preserve" x:Key="spell2">Огненный шторм</sys:String>
+    <sys:String xml:space="preserve" x:Key="spell3">Поджог меча</sys:String>
+    <sys:String xml:space="preserve" x:Key="spell4">Удар молнии</sys:String>
+    <sys:String xml:space="preserve" x:Key="spell5">Раскат грома</sys:String>
+    <sys:String xml:space="preserve" x:Key="spell6">Посох молний</sys:String>
+    <sys:String xml:space="preserve" x:Key="spell7">Водная струя</sys:String>
+    <sys:String xml:space="preserve" x:Key="spell8">Ледяной шар</sys:String>
+    <sys:String xml:space="preserve" x:Key="spell9">Ледяная печать</sys:String>
+    <sys:String xml:space="preserve" x:Key="spell10">Заклинание обращения</sys:String>
+    <sys:String xml:space="preserve" x:Key="spell11">Ядовитый плющ</sys:String>
+    <sys:String xml:space="preserve" x:Key="spell12">Сильное заклинание</sys:String>
+    <sys:String xml:space="preserve" x:Key="spell13">Темные цепи</sys:String>
+    <sys:String xml:space="preserve" x:Key="spell14">Зоркий глаз</sys:String>
+    <sys:String xml:space="preserve" x:Key="spell15">Помощь теней</sys:String>
+    <sys:String xml:space="preserve" x:Key="spell16">Лечение</sys:String>
+    <sys:String xml:space="preserve" x:Key="spell17">Ограничение заклинаний</sys:String>
+    <sys:String xml:space="preserve" x:Key="spell18">???</sys:String>
+    
+</ResourceDictionary>
